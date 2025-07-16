@@ -23,8 +23,8 @@ https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1
 ![20250716142555.png](<20250716142555.png>)
 
 
-### 注意看下自己的节点是否正常，如果还不行
-先用auto
-先用auto
-先用auto
+- 注意检查看看节点是否正常
+- 如果以上还不行，打开设置（Ctrl+Shift+J）选择Network将来HTTP Compatibility Mode改成1.0试一下
+  
+### 如果还不行，先用auto
 
