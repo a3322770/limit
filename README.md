@@ -7,8 +7,7 @@ This model provider doesn't serve your region. Visit https://docs.cursor.com/acc
 cursor限制中国地区包括(中国香港、中国台湾)，需要使用claude，必须设置代理
 
 
-### 1. 设置clash，开tun（虚拟网卡模式）选规则模式即可
-
+### 1. 设置clash，开tun（虚拟网卡模式）选规则模式 或 全局规则模式
 clash下载
 https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1
 
@@ -24,7 +23,7 @@ https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1
 
 
 - 注意检查看看节点是否正常
-- 如果以上还不行，打开设置（Ctrl+Shift+J）选择Network将来HTTP Compatibility Mode改成1.0试一下
+- 如果以上还不行，打开设置（Ctrl+Shift+J）选择Network将来HTTP Compatibility Mode改成1.1或1.0试一下
   
 ### 如果还不行，先用auto
 
