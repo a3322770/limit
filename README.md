@@ -1,7 +1,8 @@
-# limit
+# cursor限制国内使用claude 解决方法
 
-
-This model provider doesn't serve your region.Visithttps://docs.cursor.com/account/regions formore informaton.   
+提示：
+Model not available
+This model provider doesn't serve your region. Visit https://docs.cursor.com/account/regions for more information.
 
 cursor限制中国地区包括(中国香港、中国台湾)，需要使用claude，必须设置代理
 
@@ -24,11 +25,11 @@ cursor限制中国地区包括(中国香港、中国台湾)，需要使用claude
 先用auto
 
 
-### 没梯子的推荐这个
+### 没梯子的推荐这个稳定便宜:
  https://xn--h5qy75o.com/index.html?register=MJ8s74oD
 几块钱一个月
 
-### 使用clash，开tun（虚拟网卡模式）
+### 统计使用clash，开tun（虚拟网卡模式）
 
 clash下载
 https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1
