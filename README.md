@@ -4,7 +4,7 @@
 Model not available
 This model provider doesn't serve your region. Visit https://docs.cursor.com/account/regions for more information.
 
-cursor限制中国地区包括(中国香港、中国台湾)，需要使用claude，必须设置代理
+cursor限制中国地区使用 ，要使用必须设置代理
 
 
 ### 1. 设置clash，开tun（虚拟网卡模式）选规则模式 或 全局规则模式
