@@ -7,7 +7,7 @@ This model provider doesn't serve your region. Visit https://docs.cursor.com/acc
 cursor限制中国地区使用 ，要使用必须设置代理
 
 
-### 1. 设置clash，开tun（虚拟网卡模式）选规则模式 或 全局规则模式
+### 1. 设置clash，开tun（虚拟网卡模式）选规则模式 或 全局规则模式（一般规则模式就可以）
 clash下载
 https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1
 
