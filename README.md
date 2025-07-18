@@ -16,7 +16,7 @@ This model provider doesn't serve your region. Visit https://docs.cursor.com/acc
 
 -
 
-### 1. 设置clash，开tun（虚拟网卡模式）选规则模式 或 全局规则模式（一般规则模式就可以）
+### 1. 设置clash，开tun（虚拟网卡模式）代理模-选规则模式或全局规则模式（一般规则模式就可以）
 
 clash下载
 https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1
