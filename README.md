@@ -22,7 +22,7 @@ clash下载
 https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1
 
 
-![202507161426877.png](<202507161426877.png>)
+![20250718095406.png](<20250718095406.png>)
 
 
 ### 2. cursor代理设置
