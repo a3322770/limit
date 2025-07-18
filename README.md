@@ -26,14 +26,13 @@ https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1
 
 
 ### 2. cursor代理设置
-文件-首选项-设置-应用程序-代理服务器 http://127.0.0.1:7897 （7897为自己梯子端口）
+#### 文件-首选项-设置-应用程序-代理服务器 http://127.0.0.1:7897 （7897为自己梯子端口）
 
 ![20250716142555.png](<20250716142555.png>)
 
+#### 打开设置（Ctrl+Shift+J）选择Network将来HTTP Compatibility Mode改成1.1或1.0
 
-- 注意检查看看节点是否正常
-- 如果以上还不行，打开设置（Ctrl+Shift+J）选择Network将来HTTP Compatibility Mode改成1.1或1.0试一下
-
+![20250718093145.png](<20250718093145.png>)
 -- - 
 
 ### 如果还不行，先用auto
