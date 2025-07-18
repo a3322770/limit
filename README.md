@@ -1,4 +1,4 @@
-# cursor限制国内使用claude 解决方法
+# cursor 限制国内使用设置方法
 
 提示：Model not available
 This model provider doesn't serve your region. Visit https://docs.cursor.com/account/regions for more information.
