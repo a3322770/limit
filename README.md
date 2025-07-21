@@ -10,8 +10,11 @@ This model provider doesn't serve your region. Visit https://docs.cursor.com/acc
 > 翻墙软件众多，每个软件可能不一样，如果是clash就按以下设置
 
 
-> 没梯子的推荐这个，便宜稳定，几块钱一个月
-[ https://xn--h5qy75o.com/index.html?register=MJ8s74oD](https://xn--h5qy75o.com/index.html?register=MJ8s74oD) 
+> 没梯子的推荐这2个，便宜稳定，几块钱一个月
+> 
+https://xn--h5qy75o.com/index.html?register=MJ8s74oD
+> 
+https://mitce.net/aff.php?aff=19176
 
 -
 
