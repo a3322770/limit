@@ -24,9 +24,9 @@ https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1
 ![20250718095406.png](<20250718095406.png>)
 
 
-#### 2. 打开设置（Ctrl+Shift+J）选择Network将来HTTP Compatibility Mode改成1.1或1.0
+#### 2. 打开设置（Ctrl+Shift+J）选择Network将来HTTP Compatibility Mode改成HTTP/2
 
-![20250718093145.png](<20250718093145.png>)
+![20250721090120.png](<20250721090120.png>)
 
 开启Tun模式(虚拟网卡)以下可以不用设置（步骤3）
 
