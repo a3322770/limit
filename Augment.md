@@ -11,7 +11,7 @@ https://xn--h5qy75o.com/index.html?register=MJ8s74oD
 https://mitce.net/aff.php?aff=19176
 
 -
-### 1. Clash Verge下载  [https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1](https://github.com/clash-verge-rev/clash-verge-rev/)
+### 1. Clash Verge下载  [https://github.com/clash-verge-rev/clash-verge-rev/](https://github.com/clash-verge-rev/clash-verge-rev/)
 
 ### 2. 设置Clash Verge，开TUN（虚拟网卡模式）代理模式-选规则模式即可
 
@@ -22,4 +22,11 @@ https://mitce.net/aff.php?aff=19176
 
 ![20250718095406.png](<20250718095406.png>)
 
-重新启动编辑器就可以了
+#### VS设置Proxy
+![20250721230819.png](<20250721230819.png>)
+
+#### IDEA设置Proxy
+
+![20250721231123.png](<20250721231123.png>)
+
+设置完重新启动编辑器就可以了
