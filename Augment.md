@@ -4,8 +4,11 @@
 > 翻墙软件众多，每个软件可能不一样，如果是Clash Verge 就按以下设置
 
 
-> 没梯子的推荐这个，便宜稳定，几块钱一个月
-[ https://xn--h5qy75o.com/index.html?register=MJ8s74oD](https://xn--h5qy75o.com/index.html?register=MJ8s74oD) 
+> 没梯子的推荐这2个，便宜稳定，几块钱一个月
+> 
+https://xn--h5qy75o.com/index.html?register=MJ8s74oD
+> 
+https://mitce.net/aff.php?aff=19176
 
 -
 ### 1. Clash Verge下载  [https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1](https://github.com/clash-verge-rev/clash-verge-rev/)
