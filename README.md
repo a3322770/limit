@@ -15,9 +15,9 @@ This model provider doesn't serve your region. Visit https://docs.cursor.com/acc
 
 -
 
-### 1. 设置clash，开TUN（虚拟网卡模式）代理模-选规则模式或全局规则模式（一般规则模式就可以）
+### 1. 设置clash，开TUN（虚拟网卡模式）代理模式-选规则模式即可
 
-clash下载
+强烈推荐使用 clash verge
 https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1
 
 
@@ -28,7 +28,11 @@ https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.3.1
 
 ![20250721090120.png](<20250721090120.png>)
 
-开启Tun模式(虚拟网卡)以下可以不用设置（步骤3）
+-
+
+## Clash 开启TUN模式(虚拟网卡)以下可以不用设置（步骤3）
+
+-
 
 ### 3. cursor代理设置
 #### 文件-首选项-设置-应用程序-代理服务器 http://127.0.0.1:7897 （7897为自己梯子端口）
