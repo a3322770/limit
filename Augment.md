@@ -4,9 +4,7 @@
 > 翻墙软件众多，每个软件可能不一样，如果是Clash Verge 就按以下设置
 
 
-> 没梯子的推荐这2个，便宜稳定，几块钱一个月
-> 
-https://xn--h5qy75o.com/index.html?register=MJ8s74oD
+> 没梯子的推荐，便宜稳定，几块钱一个月
 > 
 https://mitce.net/aff.php?aff=19176
 
